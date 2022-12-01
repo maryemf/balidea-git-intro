@@ -1,10 +1,11 @@
 {
   "name": "balidea-intro-git",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "By [Mary Mayorga](https://marym.es) on November 22, 2022",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
   },
   "keywords": [],
   "author": "",
